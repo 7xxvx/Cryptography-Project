@@ -2,7 +2,7 @@
 
 ## **Abstract** ##
 
-     Genomic analysis has the potential to revolutionize healthcare, but patient data must be protected to maintain privacy. Homomorphic Encryption (HE) enables privacy-preserving analysis by performing computations on encrypted data without revealing the underlying data.
+   Genomic analysis has the potential to revolutionize healthcare, but patient data must be protected to maintain privacy. Homomorphic Encryption (HE) enables privacy-preserving analysis by performing computations on encrypted data without revealing the underlying data.
   
 ## **Scenario** ##
 
