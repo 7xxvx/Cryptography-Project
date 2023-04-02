@@ -10,6 +10,9 @@
   
   The hospital wants to explore the use of HE, which allows computation on encrypted data without decrypting it. The hospital can encrypt the genomic data, upload the encrypted data to the cloud, and perform genomic analysis on it using HE. The raw genomic data and analysis results remain encrypted, mitigating the impact of any data breaches. The hospital can download and decrypt only the analysis results, keeping the raw genomic data encrypted in the cloud. This project aims to identify the strengths and limitations of HE for genomic analysis.
 
+<p align="center">
+    <img src="![image](https://user-images.githubusercontent.com/115767103/229334406-edb8d33f-833b-4939-b55b-1fc3be4316be.png)" />
+</p>
 
 | Subject     | Description |
 | ----------- | ----------- |
@@ -35,6 +38,8 @@
 + Benchmark datasets and performance metrics will be used to evaluate the performance of the techniques in terms of computation time and memory usage.
 + The security of the techniques will be evaluated by analyzing the attack surface and potential vulnerabilities of the HE schemes used, and by assessing the effectiveness of differential privacy techniques in protecting the privacy of the patients' data.
 + The performance and security of both FHE and PHE techniques will be compared to identify the strengths and limitations of each approach in the context of privacy-preserving genomic analysis.
+
+
 
 
 | Student ID |       Name       |   
