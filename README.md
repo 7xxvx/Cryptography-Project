@@ -10,7 +10,7 @@
   
   The hospital wants to explore the use of HE, which allows computation on encrypted data without decrypting it. The hospital can encrypt the genomic data, upload the encrypted data to the cloud, and perform genomic analysis on it using HE. The raw genomic data and analysis results remain encrypted, mitigating the impact of any data breaches. The hospital can download and decrypt only the analysis results, keeping the raw genomic data encrypted in the cloud. This project aims to identify the strengths and limitations of HE for genomic analysis.
 
-![image](file:///C:/Users/ADMIN/Desktop/HERE/[LOAD]%20Study/YEAR-2/TERM-4/[NT219]%20MMH/HOMOMORPHIC%20ENCRYPTION%20-%20PROJECT/download.png)
+file:///C:/Users/ADMIN/Desktop/HERE/[LOAD]%20Study/YEAR-2/TERM-4/[NT219]%20MMH/HOMOMORPHIC%20ENCRYPTION%20-%20PROJECT/download.png
 
 | Subject     | Description |
 | ----------- | ----------- |
